@@ -1,6 +1,5 @@
 site_name: PropPilot User Guide
-site_url: https://localhost:8000
-theme:
+site_url: https://sitename.example
   name: material
   pallete: 
     scheme: slate
