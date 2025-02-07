@@ -2,6 +2,6 @@ After creating your templates, you can use them to generate dynamic content. All
 
 ![Alt text](assets/generate_presentation.png)
 
-After this, you'll be brought to a screen where you can upload files and generate your presentation.
+After this, you'll be brought to a screen where you can upload files and generate your presentation. Currently, we support **PDF and .DOCX files.**
 
 ![Alt text](assets/rfp_shell.png)
