@@ -1,0 +1,17 @@
+site_name: PropPilot User Guide
+site_url: https://localhost:8000
+theme:
+  name: material
+  pallete: 
+    scheme: slate
+    primary: green
+    accent: deep purple
+  logo: assets/pp_logo.png
+nav:
+  - Getting Started: getting_started.md
+  - Creating Templates: creating_templates.md
+  - Configuring Presentations: template_config.md
+  - Generating Presentations: generate_content.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
