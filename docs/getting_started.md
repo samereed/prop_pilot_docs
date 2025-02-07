@@ -9,5 +9,5 @@ PropPilot **is easy to use**, as any AI product should be! But a quick glance at
 !!! note "Step 2: Configuration"
     [Provide some details](template_config.md) about your template for future use when generating content.
 
-!!! tip "Step 3: Deployment"
+!!! tip "Step 3: Generate a presentation"
     [Generate content!](generate_content.md)
