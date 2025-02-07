@@ -8,7 +8,7 @@ theme:
     accent: deep purple
   logo: assets/pp_logo.png
 nav:
-  - Getting Started: getting_started.md
+  - Home: getting_started.md
   - Creating Templates: creating_templates.md
   - Configuring Presentations: template_config.md
   - Generating Presentations: generate_content.md
