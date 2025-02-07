@@ -1,5 +1,5 @@
 # Getting Started with PropPilot
-PropPilot helps you create professional presentations by combining your .PPTX templates with AI-powered data extraction. Our system processes your templates to identify variables, helps you configure how each variable should be populated, and then generates polished presentations using your input documents.
+PropPilot helps you create professional presentations by combining your .PPTX templates with AI-powered data generation. Our system processes your templates to identify variables, helps you configure how each variable should be populated, and then generates polished presentations using your input documents.
 
 PropPilot **is easy to use**, as any AI product should be! But a quick glance at each of the steps below will help you get off and running.
 
